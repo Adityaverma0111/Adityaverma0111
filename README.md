@@ -1,16 +1,31 @@
-## Hi there 👋
+# Aditya Verma
 
-<!--
-**Adityaverma0111/Adityaverma0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech. Information Technology Student | Full-Stack Developer | Exploring GenAI & Agentic AI**
 
-Here are some ideas to get you started:
+I build web applications with React, Node.js, Express.js, and MongoDB, and I’m expanding my foundation in generative AI and agentic systems. I’m interested in practical software engineering, thoughtful user experiences, and learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/aditya-verma-055213310)
+
+## Skills
+
+- **Full stack:** React.js, Node.js, Express.js, MongoDB, REST APIs
+- **Languages:** Python, C++, JavaScript
+- **Web:** HTML, CSS, Tailwind CSS
+- **Databases:** MySQL, MongoDB
+- **AI:** GenAI, Agentic AI, LLMs, prompt engineering, RAG fundamentals; learning LangChain; basic OpenAI and Claude API usage
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Core concepts:** OOP, DBMS, Operating Systems, Data Structures and Algorithms
+
+## Selected Projects
+
+- **Exam Portal** — 2026
+- **Eventora** — 2025
+- **AI Virtual Assistant** — 2024
+
+## Problem Solving
+
+Solved **250+ coding problems**, including **150+ on LeetCode**. Also a **GeeksforGeeks contributor**.
+
+## Current Focus
+
+Building full-stack applications and deepening my understanding of GenAI, agentic AI, LLM applications, RAG, and LangChain.
